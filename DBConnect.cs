@@ -8,6 +8,6 @@ namespace RentACar
 {
     class DBConnect
     {
-        public const String oradb = "Data Source = localhost/orcl; User Id = C##user1; Password = Kingboy60;";
+        public const String oradb = "Data Source = localhost/orcl; User Id = C##user1; Password = <password>;";
     }
 }
